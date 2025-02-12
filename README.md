@@ -1,9 +1,9 @@
 # Credit-Card-Fraud-Detection-Using-Machine-Learning
-##Overview
+## Overview
 
 With the rise of e-commerce and online transactions, credit card fraud has become a major concern. This project implements a fraud detection system using machine learning techniques, specifically Logistic Regression, Decision Tree, and Random Forest Classifier. The project addresses class imbalance using SMOTE and undersampling, ensuring accurate fraud detection while minimizing false positives.
 
-##Features
+## Features
 
 1.Preprocessing of transaction data, including duplicate removal and feature scaling.
 
@@ -16,7 +16,7 @@ With the rise of e-commerce and online transactions, credit card fraud has becom
 5.Achieved 99.99% accuracy with Random Forest Classifier.
 
 
-##Technologies Used:
+## Technologies Used:
 
 1.Python
 
@@ -30,7 +30,7 @@ With the rise of e-commerce and online transactions, credit card fraud has becom
 
 6.Joblib (to save and deploy models)
 
-##Dataset
+## Dataset
 
 The dataset used in this project was obtained from Kaggle and contains 284,807 credit card transactions, including 473 fraudulent cases. It consists of 31 features, representing anonymized transaction details.
 
