@@ -6,17 +6,25 @@ With the rise of e-commerce and online transactions, credit card fraud has becom
 ## Features
 
 1.Preprocessing of transaction data, including duplicate removal and feature scaling.
+
 2.Handling class imbalance with undersampling and oversampling (SMOTE).
+
 3.Implementation of Logistic Regression, Decision Tree, and Random Forest Classifier.
+
 4.Performance evaluation using accuracy, precision, recall, and F1-score.
+
 5.Achieved 99.99% accuracy with Random Forest Classifier.
 
 ## Technologies Used
 
 1.Python
+
 2.NumPy, Pandas (for data handling and preprocessing)
+
 3.Scikit-learn (for model training and evaluation)
+
 4.Matplotlib, Seaborn (for visualization)
+
 5.SMOTE (to handle class imbalance)
 
 ## Dataset
