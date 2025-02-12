@@ -16,7 +16,7 @@ With the rise of e-commerce and online transactions, credit card fraud has becom
 5.Achieved 99.99% accuracy with Random Forest Classifier.
 
 
-## Technologies Used:
+## Technologies Used
 
 1.Python
 
